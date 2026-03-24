@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# KiCad lock files
+PCB/~*.lck
+
+# OS/editor
+.DS_Store
+Thumbs.db
